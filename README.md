@@ -6,7 +6,7 @@ Este é um utilitário em Python desenvolvido para monitorar e registrar a telem
 
 - **Monitoramento de CPU:** Captura a carga total de processamento.
 - **Métricas de RAM:** Acompanha o consumo de memória do sistema em GB.
-- **Telemetria de GPU (NVIDIA):** Utiliza a API oficial da NVIDIA para monitorar o uso do núcleo e o consumo de VRAM (essencial para placas como a GTX 1660).
+- **Telemetria de GPU (NVIDIA):** Utiliza a API oficial da NVIDIA para monitorar o uso do núcleo e o consumo de VRAM.
 - **Exportação de Dados:** Salva automaticamente todos os logs em um arquivo `.csv` para análise posterior.
 
 ## 🛠️ Tecnologias Utilizadas
