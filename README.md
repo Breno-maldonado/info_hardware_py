@@ -11,7 +11,7 @@ Este é um utilitário em Python desenvolvido para monitorar e registrar a telem
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Python 3.x**
+- **Python 3**
 - **psutil:** Para coleta de dados do processador e memória RAM.
 - **pynvml:** Interface Python para o NVIDIA Management Library.
 - **CSV:** Para persistência de dados estruturados.
